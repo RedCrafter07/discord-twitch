@@ -1,0 +1,6 @@
+{
+  "id":  "Twitch Bot Id",
+  "secret": "Twitch Bot Secret",
+  "twitchToken": "Twitch Bot Token",
+  "discordToken": "Discord Bot Token"
+}
